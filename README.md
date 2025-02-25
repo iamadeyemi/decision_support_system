@@ -37,5 +37,21 @@ This project aims to develop a decision support platform for students, leveragin
 - **Cloud-Based Data Repositories** for storing and sharing survey results and datasets
 - **Visualization Tools**: Matplotlib, Seaborn, Plotly
 
-## 📜 Citation
-If you use this work, please cite the project and the datasets accordingly:
+---
+
+## 👨‍💻 **Contributors**  
+- **Timothy Adeyemi** 🚀  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamtimothy)  
+  - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
+
+---
+
+## 📜 **License**  
+This project is licensed under the **MIT License** – feel free to use and improve it!  
+
+---
+
+## ⭐ **Show Your Support!**  
+If you found this project useful, please **star ⭐ the repository** and share it!  
+
+Happy coding! 🚀🏡💻  
