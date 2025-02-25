@@ -41,7 +41,7 @@ This project aims to develop a decision support platform for students, leveragin
 
 ## 👨‍💻 **Contributors**  
 - **Timothy Adeyemi** 🚀  
-  - **GitHub:** [@iamadeyemi](https://github.com/iamtimothy)  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamadeyemi)  
   - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
 
 ---
